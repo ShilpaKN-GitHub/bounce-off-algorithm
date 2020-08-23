@@ -8,7 +8,7 @@ function setup()
   fixedRect.shapeColor = "green";
   fixedRect.velocityY = +5;
 
-  movingRect = createSprite(400,500,80,30);
+  movingRect = createSprite(400, 500, 80, 30);
   movingRect.shapeColor = "green";
   movingRect.velocityY = -5;
 }
